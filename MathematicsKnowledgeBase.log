@@ -1,16 +1,15 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.18)  21 OCT 2016 10:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.30)  5 NOV 2016 00:11
 entering extended mode
-**C:/Users/neilfvhv/Desktop/mathematics-knowledge-base/MathematicsKnowledgeBase
-.tex
-
-(C:/Users/neilfvhv/Desktop/mathematics-knowledge-base/MathematicsKnowledgeBase.
-tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for loaded.
-("C:\Program Files\CTEX\MiKTeX\tex\latex\base\article.cls"
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files\CTEX\MiKTeX\tex\latex\base\size11.clo"
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**MathematicsKnowledgeBase.tex
+(./MathematicsKnowledgeBase.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -24,8 +23,9 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\neilfvhv\Desktop\mathematics-knowledge-base\MathematicsKnowledgeBase.
-aux)
+(./MathematicsKnowledgeBase.aux)
+\openout1 = `MathematicsKnowledgeBase.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
@@ -48,31 +48,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 13.
  [1
 
-{C:/Program Files/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}
-}]
-(C:\Users\neilfvhv\Desktop\mathematics-knowledge-base\MathematicsKnowledgeBase.
-aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./MathematicsKnowledgeBas
+e.aux) ) 
 Here is how much of TeX's memory you used:
- 236 strings out of 495354
- 3021 string characters out of 3183075
- 48122 words of memory out of 3000000
- 3479 multiletter control sequences out of 15000+200000
- 8503 words of font info for 30 fonts, out of 3000000 for 9000
- 14 hyphenation exceptions out of 8191
- 21i,6n,19p,209b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
-C:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Prog
-ram Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program File
-s/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/CTEX/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/CTEX/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/CTEX/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/CTEX/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmr6.pfb><C:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmr8.pfb><C:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb>
-Output written on MathematicsKnowledgeBase.pdf (1 page, 100309 bytes).
+ 232 strings out of 493029
+ 2669 string characters out of 6136234
+ 56068 words of memory out of 5000000
+ 3844 multiletter control sequences out of 15000+600000
+ 8503 words of font info for 30 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 21i,6n,19p,199b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb>
+Output written on MathematicsKnowledgeBase.pdf (1 page, 103634 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 52 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
